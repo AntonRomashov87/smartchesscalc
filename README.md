@@ -16,3 +16,20 @@
 Експорт у PDF: Можливість збереження карток гравців та сертифікатів у форматі PDF для друку.
 
 Адаптивний дизайн: Сучасний інтерфейс із підтримкою темної та світлої тем.
+
+Description:
+A specialized web tool designed for chess arbiters and coaches of the Ukrainian Chess Federation (UCF). This application automates the process of calculating sports rank achievements and generating reports based on tournament results.
+
+Key Features:
+
+Tournament Data Processing: Upload tournament results via Excel files (.xlsx).
+
+Automatic Calculation: Computes average ratings, tournament coefficients, and determines rank norms (from junior ranks to Candidate Master).
+
+Player Profiles: Generates detailed personal player cards with round-by-round results and statistics.
+
+Certificate Generation: Automatically creates official certificates for players who met rank requirements.
+
+PDF Export: Export player cards and certificates to PDF format for printing and distribution.
+
+Responsive Design: Modern UI with support for both Dark and Light themes.
